@@ -2,6 +2,8 @@
 
 author: Johann Pototschnig
 
-date of creation: 08.01.2018
+date of creation: 09.01.2017
 
-This is a first attempt for github. The project aims to describe potential energy curves.
+This project ist a try to use GitHub.
+It aims to treat potential curves.
+
